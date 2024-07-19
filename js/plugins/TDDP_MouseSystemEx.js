@@ -278,7 +278,7 @@ var TDDP_MouseSystemEx = {};
     $._cursorFilenameInUse = null;   // Helper to compare changes
     $._lastUpdateFrame     = 0;      // Last frame cursor got updated
     $._cssClassPrefix      = "TDDP_customCursor_";
-    $._indexFilename       = "_index.json";
+    $._indexFilename       = "index.json";
 
     // Add all mouse icon tags
     $.mouseIconTags        = {}
