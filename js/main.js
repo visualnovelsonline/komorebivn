@@ -2,9 +2,9 @@
 // main.js
 //=============================================================================
 
-
+PluginManager.setup($plugins);
+myfunction()
 
 myfunction() = function() {
-    PluginManager.setup($plugins);
     SceneManager.run(Scene_Boot);
 };
