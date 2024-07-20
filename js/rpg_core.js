@@ -216,7 +216,7 @@ Utils.isNwjs = function() {
  */
 Utils.isMobileDevice = function() {
     var r = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
-    return !!navigator.userAgent.match(r);
+    return True;
 };
 
 /**
