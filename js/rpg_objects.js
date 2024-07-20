@@ -10497,7 +10497,7 @@ Game_Interpreter.prototype.command355 = function() {
         this._index++;
         script += this.currentCommand().parameters[0] + '\n';
     }
-    eval(script);
+    // eval(script);
     return true;
 };
 
