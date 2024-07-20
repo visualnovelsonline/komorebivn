@@ -7,4 +7,4 @@ window.onload = function() {
     canvas.width = 75%;
     canvas.height = 75%;
         
-};
+}
