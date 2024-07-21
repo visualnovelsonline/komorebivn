@@ -1,1 +1,1 @@
-https://tuckerisapizza.github.io/komorebi/
+https://visualnovelsonline.github.io/komorebivn/
